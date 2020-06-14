@@ -14,6 +14,8 @@ version `4.4.4`
 
 ## setup
 ```zsh
+$ cd service
+
 $ pip install -r requirements.txt
 
 $ cd template
